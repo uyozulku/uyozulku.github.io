@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyozulku/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uyozulku)
 
-I am a recent graduate of Columbia University 🦁 with a bachelor's degree in computer science (graduated in May 2023). My current interests include web development, software systems, machine learning, and fintech. You can find my resume [here](https://drive.google.com/file/d/1Okrk4oxWoxuJFnGeu-X2kcnPpAAdOA21/view?usp=sharing).
+I am a software engineer at [Check](https://www.checkhq.com/) and a graduate of Columbia University 🦁 with a bachelor's degree in computer science (graduated in May 2023). My current interests include web development, software systems, machine learning, and fintech. You can find my resume [here](https://drive.google.com/file/d/1Okrk4oxWoxuJFnGeu-X2kcnPpAAdOA21/view?usp=sharing).
 
 #### Github Stats
 ![Unal's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyozulku&count_private=true&show_icons=true)
