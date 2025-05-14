@@ -5,9 +5,6 @@
 
 I am a software engineer at [Addepar](https://addepar.com/) and a graduate of Columbia University 🦁 with a bachelor's degree in computer science. My current interests include web development, software systems, machine learning, and fintech.
 
-#### Github Stats
-![Unal's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyozulku&count_private=true&show_icons=true)
-
 #### Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
