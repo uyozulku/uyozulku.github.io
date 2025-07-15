@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyozulku/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uyozulku)
 
-I am a software engineer at [Addepar](https://addepar.com/) and a graduate of Columbia University 🦁 with a bachelor's degree in computer science. My current interests include web development, software systems, machine learning, and fintech.
+I am a software engineer at [Addepar](https://addepar.com/) and a graduate of [Columbia University](https://www.columbia.edu/) with a bachelor's degree in computer science. My current interests include web development, distributed systems, machine learning, and fintech.
 
 #### Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
